@@ -38,12 +38,12 @@ We can do a quick search for `Virtual Machine` and as we create the virtual mach
    >**Note**: Be sure to check the box recognizing 'I confirm I have an eligible Windows 10/11 license with multi-tenant hosting rights.' or else you will receive a validation error message when you choose to 'Review + Create'.
     
 <p align="center">
-<img src="https://i.imgur.com/yFq2KcG.png" height="70%" width="70%" alt="image of vm username password"/> </p>
+<img src="https://i.imgur.com/BEZwHKG.png" height="70%" width="70%" alt="image of vm username password"/> </p>
 
 We will need connect to our Virtual Machine with Remote Desktop using the VM's `public IP address`. 
 
 <p align="center">
-<img src="https://i.imgur.com/DGOWrS5.png" height="80%" width="80%" alt="image of public IP address"/>
+<img src="https://i.imgur.com/T2HFOKa.png" height="80%" width="80%" alt="image of public IP address"/>
 </p>
 
 <br />
