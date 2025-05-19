@@ -52,7 +52,7 @@ To connect to the virtual machine, we search on the local machine for 'Remote De
 
 
 <p align="center">
-<img src="https://i.imgur.com/06af4yH.png" height="50%" width="50%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/zHUfhDt.png" height="50%" width="50%" alt="Disk Sanitization Steps"/>
 </p>
 
 <br/>
