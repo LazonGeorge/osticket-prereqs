@@ -3,7 +3,7 @@
 </p>
 
 <h1>osTicket - Prerequisites and Installation</h1>
-This tutorial outlines the prerequisites and installation of the open-source help desk ticketing system osTicket.<br />
+This project involves deploying osTicket, an open-source support ticketing system, on a Windows 10 Virtual Machine hosted in Microsoft Azure. The goal is to create a functional help desk environment for IT support.<br />
 
 <h2>Environments and Technologies Used</h2>
 
