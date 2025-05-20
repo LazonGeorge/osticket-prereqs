@@ -234,7 +234,24 @@ Set Permission to "`Read`" only can be acheived by choosing to right-click on '`
  <p align="center">
  <img src="https://i.imgur.com/R11rIMd.png"  height="65%" width="65%" alt="read-only allow is shown for osticketcong file"/>
  </p>
- <br/>
+ Congratulations we are at the end of this project, you have two main options for managing your Virtual Machine (VM) on Azure:
+
+Pause the VM (Stop/Deallocate):
+You can stop the VM, which will pause usage and billing for compute resources. Your data and configurations will be saved, and you can resume later exactly where you left off. This is ideal if you plan to continue with another project in the future.
+
+Delete the VM:
+If you're done and don’t need the VM anymore, you can delete it to stop all billing and free up resources. Be sure to back up any important data before deletion.
+
+This gives you flexibility to manage your cloud resources efficiently based on your next steps.
+
+
+
+
+
+
+
+
+<br/>
  
  
 
