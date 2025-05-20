@@ -6,6 +6,7 @@
 This tutorial outlines the prerequisites and installation of the open-source help desk ticketing system osTicket.<br />
 
 <h2>Environments and Technologies Used</h2>
+https://i.imgur.com/fqbcFXq.png
 
 - Microsoft Azure (Virtual Machines/Compute)
 - Remote Desktop
